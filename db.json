@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "aeroport": "Cluj-Napoca",
+    "data": "2018-10-10",
+    "ora": "18:30",
+    "nrLocuriDis;": 100,
+    "destinatie;": "Maroc"
+  },
+  {
+    "id": 2,
+    "aeroport": "Cluj-Napoca",
+    "data": "2018-10-10",
+    "ora": "18:30",
+    "nrLocuriDis;": 100,
+    "destinatie;": "Thailanda"
+  },
+  {
+    "id": 3,
+    "aeroport": "Cluj-Napoca",
+    "data": "2018-10-10",
+    "ora": "18:30",
+    "nrLocuriDis;": 100,
+    "destinatie;": "Oslo"
+  },
+]
